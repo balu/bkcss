@@ -638,7 +638,7 @@
 }
 
 /* Experimental */
-div.highlight {
+div.highlight, pre {
     margin-block-end: var(--bk-block-spacing-m);
     padding: var(--bk-padding-m);
     background-color: var(--bk-surface1);
