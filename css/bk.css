@@ -418,15 +418,15 @@
 
 	    --bk-primary-light: hsl(var(--bk-primary-hue) var(--bk-primary-saturation) var(--bk-primary-lightness));
 	    --bk-text1-light: hsl(var(--bk-primary-hue) var(--bk-primary-saturation) 10%);
-	    --bk-bg-light: hsl(var(--bk-primary-hue) 15% 90%);
+	    --bk-bg-light: hsl(var(--bk-primary-hue) 15% 99%);
 	    --bk-surface1-light: hsl(var(--bk-primary-hue) 15% 95%);
 	    --bk-link-light: hsl(240deg min(var(--bk-primary-saturation), 80%) 47%);
 	    --bk-link-visited-light: hsl(271deg min(var(--bk-primary-saturation), 80%) 32%);
 
 	    --bk-primary-dark: hsl(var(--bk-primary-hue) calc(var(--bk-primary-saturation) / 2) calc(var(--bk-primary-lightness) / 1.5));
 	    --bk-text1-dark: hsl(var(--bk-primary-hue) 10% 80%);
-	    --bk-bg-dark: hsl(var(--bk-primary-hue) 10% 10%);
-	    --bk-surface1-dark: hsl(var(--bk-primary-hue) 10% 15%);
+	    --bk-bg-dark: hsl(var(--bk-primary-hue) 10% 1%);
+	    --bk-surface1-dark: hsl(var(--bk-primary-hue) 10% 5%);
 	    --bk-link-dark: hsl(240deg min(var(--bk-primary-saturation), 80%) 80%);
 	    --bk-link-visited-dark: hsl(271deg min(var(--bk-primary-saturation), 80%) 80%);
 	}
