@@ -490,7 +490,7 @@
 
 	mark::selection {
 	    background-color: var(--bk-primary-bg);
-	    color: var(--bk-primary-text1);
+	    color: var(--bk-primary-text);
 	}
 
 	form {
