@@ -423,8 +423,8 @@
             --bk-surface-bg-dark: #1e1e1e;
             --bk-surface-fg-dark: #989898;
 
-            --bk-link-dark: #3548cf;
-            --bk-link-visited-dark: #721045;
+            --bk-link-dark: #79a8ff;
+            --bk-link-visited-dark: #feacd0;
 	}
 
 	@media (prefers-color-scheme: light) {
