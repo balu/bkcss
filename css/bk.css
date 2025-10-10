@@ -431,9 +431,9 @@
 	    :root {
 		color-scheme: light;
                 --bk-primary-bg: var(--bk-primary-bg-light);
-                --bk-primary-text: var(--bk-primary-text-light);
+                --bk-primary-text: var(--bk-primary-fg-light);
                 --bk-surface-bg: var(--bk-surface-bg-light);
-                --bk-surface-text: var(--bk-surface-text-light);
+                --bk-surface-text: var(--bk-surface-fg-light);
                 --bk-link: var(--bk-link-light);
                 --bk-link-visited: var(--bk-link-visited-light);
 	    }
@@ -443,9 +443,9 @@
 	    :root {
 		color-scheme: dark;
                 --bk-primary-bg: var(--bk-primary-bg-dark);
-                --bk-primary-text: var(--bk-primary-text-dark);
+                --bk-primary-text: var(--bk-primary-fg-dark);
                 --bk-surface-bg: var(--bk-surface-bg-dark);
-                --bk-surface-text: var(--bk-surface-text-dark);
+                --bk-surface-text: var(--bk-surface-fg-dark);
                 --bk-link: var(--bk-link-dark);
                 --bk-link-visited: var(--bk-link-visited-dark);
 	    }
