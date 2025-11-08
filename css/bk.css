@@ -300,7 +300,7 @@
 	    "header"
 	    "main"
 	    "footer";
-        max-width: 680px;
+        max-width: min(95vw, 680px);
         margin: 10px;
 	padding: var(--bk-padding-s);
     }
