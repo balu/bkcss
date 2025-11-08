@@ -341,7 +341,7 @@
 
     pre, code {
         overflow: auto;
-        max-width: 680px;
+        max-width: min(95vw, 680px);
     }
 }
 
