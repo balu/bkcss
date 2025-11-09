@@ -301,7 +301,6 @@
 	    "main"
 	    "footer";
         max-width: min(95vw, 680px);
-        margin: 10px;
 	padding: var(--bk-padding-s);
     }
 
@@ -309,6 +308,11 @@
         body {
             margin-left: 300px;
         }
+    }
+
+    body > * {
+        max-width: inherit;
+        min-width: 0;
     }
 
     header {
@@ -340,8 +344,8 @@
     }
 
     pre, code {
-        overflow: auto;
-        max-width: min(95vw, 680px);
+        overflow: scroll;
+        max-width: min(95%, 680px);
     }
 }
 
