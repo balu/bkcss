@@ -344,7 +344,7 @@
     }
 
     pre, code {
-        overflow: scroll;
+        overflow: auto;
         max-width: min(95%, 680px);
     }
 }
